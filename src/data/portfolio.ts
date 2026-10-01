@@ -77,7 +77,7 @@ export const portfolioData = {
     }
   ],
   contact: {
-    email: "hello@example.com",
+    email: "manavbhut2@gmail.com",
     message: "Feel free to reach out for collaborations or just a friendly hello."
   }
 };
