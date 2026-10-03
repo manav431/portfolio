@@ -36,6 +36,18 @@ export const portfolioData = {
   ],
   projects: [
     {
+      id: "plum-lang",
+      title: "Plum Language",
+      description: "A modern, minimalist programming language designed for elegant syntax and developer productivity. Built from the ground up with a custom compiler and execution engine.",
+      year: "2026",
+      category: "Programming Language",
+      technologies: ["Compiler Design", "Language Theory", "TypeScript"],
+      image: "/plum-logo.png",
+      links: [
+        { label: "Live Site", href: "https://plum-lang-website.vercel.app/" }
+      ]
+    },
+    {
       id: "aampatra",
       title: "Aampatra",
       description: "A premium platform empowering modern luxury restaurants with bespoke contactless QR menus, real-time order management, and dynamic digital menu curation.",
